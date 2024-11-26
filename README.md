@@ -26,8 +26,8 @@ The Admin Dashboard is a powerful, customizable React-based application for mana
 - Real-time updates to reflect CRUD operations.
 - Visually appealing layout with Tailwind CSS.
 
-### **4. Sidebar Navigation**
-- Persistent and responsive sidebar.
+### **4. Navigation**
+- Persistent and responsive navbar.
 - Smooth animations and stylish design.
 - Easy navigation across all pages.
 
